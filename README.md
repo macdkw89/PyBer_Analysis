@@ -17,13 +17,13 @@ Deliverable 2 Multi-Line Chart:
 
 
 The DataFrame used to create the graph can be seen [here](/resources/q1_df.png)
+
+Our results show that Urban cities have the highest number of Total Rides, Total Drivers, and Total Fares. However, Rural cities had the highest Average Fare per Ride and Average Fare per Driver. Suburban cities were in the middle of both urban and rural in all metrics evaluated.
 __________
 
 
 ## Summary
-
-Our summary shows that Urban cities have the highest number of Total Rides, Total Drivers, and Total Fares. However, Rural cities had the highest Average Fare per Ride and Average Fare per Driver. Suburban cities were in the middle of both urban and rural in all metrics evaluated. 
-
+ 
 Using the data, we have come up with three recommendations to the PyBer CEO for improving the business and maximizing profits.
 
 1. Increase marketing and exposure to the rural cities.
